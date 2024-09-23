@@ -1,0 +1,2 @@
+# Huffman
+Huffman in Rust
